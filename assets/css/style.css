@@ -55,7 +55,7 @@
 }
 
 .linkedin {
-  color: #90EE90;
+  color: #333;
 }
 
 .angellist {
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #90EE90;
+  color: #333;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #90EE90;
+  color: #333;
   background-color: white;
 }
 /* main body */
@@ -140,14 +140,14 @@ body {
 } */
 
 a {
-  color: #90EE90;
+  color: #333;
 }
 
 /* main blockqoute */
 
 /* blockquote {
-  border-left: 5px solid #90EE90;
-  color: #90EE90;
+  border-left: 5px solid #333;
+  color: #333;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #90EE90;
-  color: #90EE90;
+  border-left: 5px solid #333;
+  color: #333;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: #90EE90; /* Red text color */
+  color: #333; /* Red text color */
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -321,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #90EE90 repeat;
+  background: #333 repeat;
   position: relative;
 }
 
@@ -349,7 +349,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #90EE90;
+  border-bottom: 5px solid #333;
 }
 
 #intro.section .teal {
@@ -550,7 +550,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #90EE90 !important;
+  color: #333 !important;
 }
 
 /* .teal-text {
@@ -560,7 +560,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #90EE90 !important;
+  background-color: #333 !important;
 }
 
 /* .teal {
